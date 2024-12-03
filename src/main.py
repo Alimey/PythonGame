@@ -1,4 +1,4 @@
-from Window import *
+from src.Window import *
 
 w = Window()
 w.start()
