@@ -1,5 +1,5 @@
 import tkinter as tk
-from Constants import *
+from src.Constants import *
 import time
 
 class TextDisplayer:

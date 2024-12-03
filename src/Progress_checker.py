@@ -1,5 +1,5 @@
 import tkinter as tk
-from Constants import *
+from src.Constants import *
 
 class ProgressChecker:
   """Класс ProgressChecker используется для контроля процесса игры и подсчета очков. Ему передает управление

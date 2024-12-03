@@ -1,8 +1,8 @@
 import tkinter as tk
-from Button import *
-from Text import *
-from Constants import *
-from Progress_checker import *
+from src.Button import *
+from src.Text import *
+from src.Constants import *
+from src.Progress_checker import *
 
 class Window:
   """Класс Window используется для создания и контроля окна игры
